@@ -26,13 +26,13 @@ A reliable tool for analysing and forecasting
 
 
 ### Team:
-Syed Mustafa Imam,
-Mahabir Gupta,
-Franklyn Ogbonna,
-Tanuj Dhiman,
-Dehlia Redker,
-Irfan Mansuri,
-Shenaha Sivakumar
+- Syed Mustafa Imam,
+- Mahabir Gupta,
+- Franklyn Ogbonna,
+- Tanuj Dhiman,
+- Dehlia Redker,
+- Irfan Mansuri,
+- Shenaha Sivakumar
 
 
 ### Mentor:
