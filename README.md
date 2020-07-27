@@ -37,3 +37,7 @@ A reliable tool for analysing and forecasting
 
 ### Mentor:
 Saif Haque
+
+
+Youtube link :
+Oracle apex link : https://apex.oracle.com/pls/apex/buildwithai/r/us-covid19/us-covid19-report?session=103878657963762
