@@ -12,7 +12,7 @@ A reliable tool for analysing and forecasting Coronavirus cases.
 - Non-availability of reliable forecasting tool
 - Inaccessibility of data derived decision making tool
 
-### Solution - Predection CTRL
+### Solution - Prediction CTRL
 - Better decision making 
 - Interactive visualization 
 - Business Integration 
@@ -39,7 +39,7 @@ A reliable tool for analysing and forecasting Coronavirus cases.
 Saif Haque
 
 
-### Youtube link : \
+### Youtube link : 
 ### Oracle apex link : 
 Oracle link : https://apex.oracle.com/pls/apex/buildwithai/r/us-covid19/us-covid19-report?session=103878657963762
     Username : dummy
