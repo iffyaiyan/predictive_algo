@@ -1,9 +1,9 @@
 
-# Predictive_Algorithim_Challenge
+# Predictive_Algorithm_Challenge
 ### Global online AI Hackathon --- #BuildwithAI: Emergence 2020
 
 ## Prediction Ctrl
-A reliable tool for analysing and forecasting
+A reliable tool for analysing and forecasting Coronavirus cases.
 
 
 ### Problem - COVID 19
